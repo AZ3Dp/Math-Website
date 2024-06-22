@@ -3,16 +3,13 @@ html {
   width: 100%;
 }
 body {
-  font-size: 150%;
   text-align: left;
   font-family: Calibri, Times, serif;
-  background: #FCBF49;
-  color: #003049;
+  font-size: 150%;
+  background: #f5d9c7;
+  color: #ff000d;
 }
 img {
   height: 200px;
   width: 300px;
-}
-head {
-  text-align: top;
 }

@@ -5,12 +5,11 @@ html {
 body {
   text-align: left;
   font-family: Calibri, Times, serif;
-  font-size: 200%;
-  background: #cafcef;
-  color: blue;
+  font-size: 150%;
+  background: #EAE2B7;
+  color: #750000;
 }
 img {
-  translate: 920px;
   height: 200px;
   width: 300px;
 }
